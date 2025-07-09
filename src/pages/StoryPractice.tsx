@@ -79,10 +79,10 @@ export function StoryPractice() {
           <div className="p-2 bg-gradient-to-r from-blue-600 to-purple-600 rounded-xl">
             <Languages className="h-8 w-8 text-white" />
           </div>
-          Story Practice
+          Interactive Stories
         </h1>
         <p className="text-gray-600">
-          Generate interactive German dialogues and practice with real-life situations
+          Generate interactive dialogues and practice with real-life situations
         </p>
       </div>
 

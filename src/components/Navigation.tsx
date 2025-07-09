@@ -28,8 +28,8 @@ export function Navigation() {
               <Languages className="h-6 w-6 text-white" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-gray-900">Learn German</h1>
-              <p className="text-xs text-gray-600">Learn German Interactively</p>
+              <h1 className="text-xl font-bold text-gray-900">TalkingTales</h1>
+              <p className="text-xs text-gray-600">Interactive Language Learning</p>
             </div>
           </Link>
 

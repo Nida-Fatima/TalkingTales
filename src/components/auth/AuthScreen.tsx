@@ -142,8 +142,8 @@ export function AuthScreen() {
               <Languages className="h-8 w-8 text-white" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-gray-900">Learn German</h1>
-              <p className="text-sm text-gray-600">Learn German Interactively</p>
+              <h1 className="text-2xl font-bold text-gray-900">TalkingTales</h1>
+              <p className="text-sm text-gray-600">Interactive Language Learning</p>
             </div>
           </div>
           <h2 className="text-xl font-semibold text-gray-800 mb-2">
